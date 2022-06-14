@@ -1,0 +1,5 @@
+[alias]
+        graph = log --graph --oneline
+[user]
+        name = Victor Lin
+        email = 13424970+victorlin@users.noreply.github.com
